@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>site</title>
+    <title>dotfiles</title>
     <link rel="stylesheet" href="_static/style.css" type="text/css" media="screen, handheld" title="default">
     <link rel="shortcut icon" href="_static/favicon.ico" type="image/vnd.microsoft.icon">
     <meta charset="UTF-8">
@@ -29,12 +29,15 @@
 
 <nav id="side-bar">
     <div>
-		<ul><li><a href="cheatsheets">› cheatsheets/</a></li><li><a href="dotfiles">› dotfiles/</a></li><li><a href="journal">› journal/</a></li><li><a href="lists">› lists/</a></li></ul>
+		<ul><li><a href="cheatsheets">› cheatsheets/</a></li><li><a href="dotfiles">» <b><i>dotfiles</i></b>/</a><ul><ul></ul></ul></li><li><a href="journal">› journal/</a></li><li><a href="lists">› lists/</a></li></ul>
 	</div>
 </nav>
 
 <article>
-	<p>Welcome to my small corner of the internet! More info about myself coming up soon!</p>
+	<h1>Dotfiles</h1>
+
+<p>I like jumping between machines a lot, so i want to keep lines to a minimum.
+I&rsquo;m still figuring out a good way to share them, i don&rsquo;t feel like making a repo just for that.</p>
 
 </article>
 

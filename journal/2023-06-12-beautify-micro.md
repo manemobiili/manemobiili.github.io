@@ -10,33 +10,26 @@
 <body>
 
 <header>
-    <nav class="head-nav">
-		<div class="left">
-			<a href="http://quotes.cat-v.org">quotes</a> |
-			<a href="http://doc.cat-v.org">docs</a> |
-			<a href="http://repo.cat-v.org">repo</a> |
-			<a href="http://go-lang.cat-v.org">golang</a> |
-			<a href="http://sam.cat-v.org">sam</a> |
-			<a href="http://man.cat-v.org">man</a> |
-			<a href="http://acme.cat-v.org">acme</a> |
-			<a href="http://glenda.cat-v.org">Glenda</a> |
-			<a href="http://ninetimes.cat-v.org">9times</a> |
-			<a href="http://harmful.cat-v.org">harmful</a> |
-			<a href="http://9p.cat-v.org/">9P</a> |
-			<a href="http://cat-v.org">cat-v.org</a>
-		</div>
 
-		<div class="right">
-		  <span class="doNotDisplay">Related sites:</span>
-		  | <a href="../sitemap">site map</a>
+	<nav class="head-nav">
+	<div class="left">
+		<img src="../_static/toast.gif" <="" div="">
+    </div>
+    
+    <div class="right">
+		<!-- <span class="doNotDisplay">Socials:</span> -->
+		  | <a href="https://github.com/manemobiili">Github </a>
+		  | <a href="https://fosstodon.org/@mane">Mastodon </a>
+		  | <a href="https://youtube.com/@manemobiili">YouTube </a>
+		  |
 		</div>
-    </nav>
-    <h1><a href="../index.html">crew <span id="headerSubTitle">Bringing more minimalism and sanity to the web, in a suckless way</span></a></h1>
+	</nav>
+    <h1><a href="../index.html">manemobiili <span id="headerSubTitle">fail early, fail often, fail forward</span></a></h1>
 </header>
 
 <nav id="side-bar">
     <div>
-		<ul><li><a href="../pics">› pics/</a></li><li><a href="../posts">» <i>posts</i>/</a><ul><ul><li><a href="2023-02-08-gentoo-cheat-sheet-txt.md">› 2023-02-08-gentoo-cheat-sheet-txt</a></li><li><a href="2023-04-21-zero-punctuation-top-5-videos.md">› 2023-04-21-zero-punctuation-top-5-videos</a></li><li><a href="2023-06-07-my-26-euro-mistake.md">› 2023-06-07-my-26-euro-mistake</a></li><li><a href="2023-06-09-Turning-Fedora-Silverblue-Into-A-Dev-Station.md">› 2023-06-09-Turning-Fedora-Silverblue-Into-A-Dev-Station</a></li><li><a href="2023-06-10-openSUSE-aeon-first-impressions.md">› 2023-06-10-openSUSE-aeon-first-impressions</a></li><li><a href="2023-06-12-beautify-micro.md"><b>» 2023-06-12-beautify-micro</b></a></li><li><a href="2023-06-15-avoid-snaps-for-joplin.md">› 2023-06-15-avoid-snaps-for-joplin</a></li></ul></ul></li></ul>
+		<ul><li><a href="../cheatsheets">› cheatsheets/</a></li><li><a href="../dotfiles">› dotfiles/</a></li><li><a href="../journal">» <i>journal</i>/</a><ul><ul><li><a href="2023-06-07-my-26-euro-mistake.md">› 2023-06-07-my-26-euro-mistake</a></li><li><a href="2023-06-09-Turning-Fedora-Silverblue-Into-A-Dev-Station.md">› 2023-06-09-Turning-Fedora-Silverblue-Into-A-Dev-Station</a></li><li><a href="2023-06-10-openSUSE-aeon-first-impressions.md">› 2023-06-10-openSUSE-aeon-first-impressions</a></li><li><a href="2023-06-12-beautify-micro.md"><b>» 2023-06-12-beautify-micro</b></a></li><li><a href="2023-06-15-avoid-snaps-for-joplin.md">› 2023-06-15-avoid-snaps-for-joplin</a></li></ul></ul></li><li><a href="../lists">› lists/</a></li></ul>
 	</div>
 </nav>
 
@@ -142,7 +135,10 @@ However, there are some emacs keys out of the box. You can use them for moving w
 </article>
 
 <footer>
-<br class="doNotDisplay doNotPrint" />
-<div style="margin-right: auto;"><a href="http://crew.0xffff.me">Powered by crew</a></div>
+    <div class="right">
+    	<a href="http://crew.0xffff.me">Powered by crew</a>
+	</div>
 </footer>
+
+
 </body></html>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>2023-04-21-zero-punctuation-top-5-videos</title>
+    <title>2023-04-21-zero-punctiation-top-5-videos</title>
     <link rel="stylesheet" href="../_static/style.css" type="text/css" media="screen, handheld" title="default">
     <link rel="shortcut icon" href="../_static/favicon.ico" type="image/vnd.microsoft.icon">
     <meta charset="UTF-8">
@@ -10,69 +10,74 @@
 <body>
 
 <header>
-    <nav class="head-nav">
-		<div class="left">
-			<a href="http://quotes.cat-v.org">quotes</a> |
-			<a href="http://doc.cat-v.org">docs</a> |
-			<a href="http://repo.cat-v.org">repo</a> |
-			<a href="http://go-lang.cat-v.org">golang</a> |
-			<a href="http://sam.cat-v.org">sam</a> |
-			<a href="http://man.cat-v.org">man</a> |
-			<a href="http://acme.cat-v.org">acme</a> |
-			<a href="http://glenda.cat-v.org">Glenda</a> |
-			<a href="http://ninetimes.cat-v.org">9times</a> |
-			<a href="http://harmful.cat-v.org">harmful</a> |
-			<a href="http://9p.cat-v.org/">9P</a> |
-			<a href="http://cat-v.org">cat-v.org</a>
-		</div>
 
-		<div class="right">
-		  <span class="doNotDisplay">Related sites:</span>
-		  | <a href="../sitemap">site map</a>
+	<nav class="head-nav">
+	<div class="left">
+		<img src="../_static/toast.gif" <="" div="">
+    </div>
+    
+    <div class="right">
+		<!-- <span class="doNotDisplay">Socials:</span> -->
+		  | <a href="https://github.com/manemobiili">Github </a>
+		  | <a href="https://fosstodon.org/@mane">Mastodon </a>
+		  | <a href="https://youtube.com/@manemobiili">YouTube </a>
+		  |
 		</div>
-    </nav>
-    <h1><a href="../index.html">crew <span id="headerSubTitle">Bringing more minimalism and sanity to the web, in a suckless way</span></a></h1>
+	</nav>
+    <h1><a href="../index.html">manemobiili <span id="headerSubTitle">fail early, fail often, fail forward</span></a></h1>
 </header>
 
 <nav id="side-bar">
     <div>
-		<ul><li><a href="../pics">› pics/</a></li><li><a href="../posts">» <i>posts</i>/</a><ul><ul><li><a href="2023-02-08-gentoo-cheat-sheet-txt.md">› 2023-02-08-gentoo-cheat-sheet-txt</a></li><li><a href="2023-04-21-zero-punctuation-top-5-videos.md"><b>» 2023-04-21-zero-punctuation-top-5-videos</b></a></li><li><a href="2023-06-07-my-26-euro-mistake.md">› 2023-06-07-my-26-euro-mistake</a></li><li><a href="2023-06-09-Turning-Fedora-Silverblue-Into-A-Dev-Station.md">› 2023-06-09-Turning-Fedora-Silverblue-Into-A-Dev-Station</a></li><li><a href="2023-06-10-openSUSE-aeon-first-impressions.md">› 2023-06-10-openSUSE-aeon-first-impressions</a></li><li><a href="2023-06-12-beautify-micro.md">› 2023-06-12-beautify-micro</a></li><li><a href="2023-06-15-avoid-snaps-for-joplin.md">› 2023-06-15-avoid-snaps-for-joplin</a></li></ul></ul></li></ul>
+		<ul><li><a href="../cheatsheets">› cheatsheets/</a></li><li><a href="../dotfiles">› dotfiles/</a></li><li><a href="../journal">› journal/</a></li><li><a href="../lists">» <i>lists</i>/</a><ul><ul><li><a href="2023-04-21-zero-punctiation-top-5-videos.md"><b>» 2023-04-21-zero-punctiation-top-5-videos</b></a></li></ul></ul></li></ul>
 	</div>
 </nav>
 
 <article>
-	<p><p><img src="https://1.bp.blogspot.com/_4MUf6T4VzPw/SevNnDbXsOI/AAAAAAAAHII/n7chvI7gSkg/s320/zero-punctuation-papercraft.jpg" alt="ZP logo"></p>
-<p>
-<h1 id="2022">2022</h1>
+	<h1>Zero Punctuation top 5 videos</h1>
+
+<p><img src="https://1.bp.blogspot.com/_4MUf6T4VzPw/SevNnDbXsOI/AAAAAAAAHII/n7chvI7gSkg/s320/zero-punctuation-papercraft.jpg" alt="ZP logo" /></p>
+
+<h1>2022</h1>
+
 <p><a href="https://www.youtube.com/watch?v=tLP5zJ_brGE">https://www.youtube.com/watch?v=tLP5zJ_brGE</a></p>
-<h4 id="best">Best</h4>
+
+<h4>Best</h4>
+
 <ol>
 <li>Neon White <a href="https://www.youtube.com/watch?v=KM_CBDMugyo">https://www.youtube.com/watch?v=KM_CBDMugyo</a></li>
 <li>Elden Ring <a href="https://www.youtube.com/watch?v=BW_h1zD2luY">https://www.youtube.com/watch?v=BW_h1zD2luY</a></li>
-<li>Tunic <a href="https://youtu.be/-lBUQZh-wAk">https://youtu.be/-lBUQZh-wAk</a></li>
+<li>Tunic <a href="https://www.youtube.com/watch?v=-lBUQZh-wAk">https://www.youtube.com/watch?v=-lBUQZh-wAk</a></li>
 <li>Hardspace: Shipbreaker <a href="https://www.youtube.com/watch?v=tWW0tVjeV20">https://www.youtube.com/watch?v=tWW0tVjeV20</a></li>
 <li>Not For Broadcast <a href="https://www.youtube.com/watch?v=f6WFNrrSbR0">https://www.youtube.com/watch?v=f6WFNrrSbR0</a></li>
 </ol>
-<h4 id="blandest">Blandest</h4>
+
+<h4>Blandest</h4>
+
 <ol>
 <li>Saints Row 2022 <a href="https://www.youtube.com/watch?v=iPkWdTG8o1s">https://www.youtube.com/watch?v=iPkWdTG8o1s</a></li>
 <li>Gotham Knights <a href="https://www.youtube.com/watch?v=8odeI9Cq4J4">https://www.youtube.com/watch?v=8odeI9Cq4J4</a></li>
 <li>Trek to Yomi <a href="https://www.youtube.com/watch?v=SJPig1n7YxM">https://www.youtube.com/watch?v=SJPig1n7YxM</a></li>
-<li>Dying Light 2 <a href="https://youtu.be/tcYl0vPrFrk">https://youtu.be/tcYl0vPrFrk</a></li>
+<li>Dying Light 2 <a href="https://www.youtube.com/watch?v=tcYl0vPrFrk">https://www.youtube.com/watch?v=tcYl0vPrFrk</a></li>
 <li>Stray <a href="https://www.youtube.com/watch?v=zod0fbrlZwQ">https://www.youtube.com/watch?v=zod0fbrlZwQ</a></li>
 </ol>
-<h4 id="worst">Worst</h4>
+
+<h4>Worst</h4>
+
 <ol>
-<li>Five Nights at Freddy&lsquo;s: Security Breach <a href="https://www.youtube.com/watch?v=C68kx5adOFU">https://www.youtube.com/watch?v=C68kx5adOFU</a></li>
-<li>Babylon&rsquo;s Fall <a href="https://www.youtube.com/watch?v=vNdV1ch5wHc">https://www.youtube.com/watch?v=vNdV1ch5wHc</a></li>
+<li>Five Nights at Freddy‘s: Security Breach <a href="https://www.youtube.com/watch?v=C68kx5adOFU">https://www.youtube.com/watch?v=C68kx5adOFU</a></li>
+<li>Babylon’s Fall <a href="https://www.youtube.com/watch?v=vNdV1ch5wHc">https://www.youtube.com/watch?v=vNdV1ch5wHc</a></li>
 <li>The Callisto Protocol <a href="https://www.youtube.com/watch?v=jQFbzmtjAsk">https://www.youtube.com/watch?v=jQFbzmtjAsk</a></li>
-<li>Stranger of Paradise: Final Fantasy Origin <a href="https://youtu.be/gSTAyy1HHqo">https://youtu.be/gSTAyy1HHqo</a></li>
+<li>Stranger of Paradise: Final Fantasy Origin <a href="https://www.youtube.com/watch?v=gSTAyy1HHqo">https://www.youtube.com/watch?v=gSTAyy1HHqo</a></li>
 <li>Hell Pie <a href="https://www.youtube.com/watch?v=AZrrRAm-O3E">https://www.youtube.com/watch?v=AZrrRAm-O3E</a></li>
 </ol>
-<p>
-<h1 id="2021">2021</h1>
+
+<h1>2021</h1>
+
 <p><a href="https://www.youtube.com/watch?v=ZycCkUGoLzg">https://www.youtube.com/watch?v=ZycCkUGoLzg</a></p>
-<h4 id="best">Best</h4>
+
+<h4>Best</h4>
+
 <ol>
 <li>Psychonauts 2 <a href="https://www.youtube.com/watch?v=72_3gmawPg0">https://www.youtube.com/watch?v=72_3gmawPg0</a></li>
 <li>The Forgotten City <a href="https://www.youtube.com/watch?v=2pGhAqUTTCI">https://www.youtube.com/watch?v=2pGhAqUTTCI</a></li>
@@ -80,7 +85,9 @@
 <li>Persona 5 Strikers <a href="https://www.youtube.com/watch?v=mWtr-8rmwuo">https://www.youtube.com/watch?v=mWtr-8rmwuo</a></li>
 <li>The Artful Escape <a href="https://www.youtube.com/watch?v=PNsjn6Q6dkM">https://www.youtube.com/watch?v=PNsjn6Q6dkM</a></li>
 </ol>
-<h4 id="blandest">Blandest</h4>
+
+<h4>Blandest</h4>
+
 <ol>
 <li>Medal of Honor: Above and Beyond <a href="https://www.youtube.com/watch?v=ilic1kuBdV0">https://www.youtube.com/watch?v=ilic1kuBdV0</a></li>
 <li>Outriders <a href="https://www.youtube.com/watch?v=and93uCVVmU">https://www.youtube.com/watch?v=and93uCVVmU</a></li>
@@ -88,7 +95,9 @@
 <li>Kena: Bridge of Spirits <a href="https://www.youtube.com/watch?v=h6Iuphgeoxo">https://www.youtube.com/watch?v=h6Iuphgeoxo</a></li>
 <li>Resident Evil Village <a href="https://www.youtube.com/watch?v=iTbMbgqjBlQ">https://www.youtube.com/watch?v=iTbMbgqjBlQ</a></li>
 </ol>
-<h4 id="worst">Worst</h4>
+
+<h4>Worst</h4>
+
 <ol>
 <li>Balan Thunderpants <a href="https://www.youtube.com/watch?v=EELffFyvbOQ">https://www.youtube.com/watch?v=EELffFyvbOQ</a></li>
 <li>Werewolf: The Apocalypse - Earthblood <a href="https://www.youtube.com/watch?v=9coRff0sz68">https://www.youtube.com/watch?v=9coRff0sz68</a></li>
@@ -96,30 +105,37 @@
 <li>The Good Life <a href="https://www.youtube.com/watch?v=_OxHjQ8ahK0">https://www.youtube.com/watch?v=_OxHjQ8ahK0</a></li>
 <li>Twelve Minutes <a href="https://www.youtube.com/watch?v=csCFks_bIMY">https://www.youtube.com/watch?v=csCFks_bIMY</a></li>
 </ol>
-<p>
-<h1 id="2020">2020</h1>
+
+<h1>2020</h1>
+
 <p><a href="https://www.youtube.com/watch?v=pgCtBTf_xFE">https://www.youtube.com/watch?v=pgCtBTf_xFE</a></p>
-<h4 id="best">Best</h4>
+
+<h4>Best</h4>
+
 <ol>
 <li>Spiritfarer <a href="https://www.youtube.com/watch?v=FKzAIF6gYvg">https://www.youtube.com/watch?v=FKzAIF6gYvg</a></li>
-<li><ul>
-<li>BPM: Bullets Per Minute <a href="https://www.youtube.com/watch?v=3wGwHLXdY7U">https://www.youtube.com/watch?v=3wGwHLXdY7U</a></li>
+<li>*   BPM: Bullets Per Minute <a href="https://www.youtube.com/watch?v=3wGwHLXdY7U">https://www.youtube.com/watch?v=3wGwHLXdY7U</a>
+
+<ul>
 <li>Hades <a href="https://www.youtube.com/watch?v=WFKzbX_Pn-E">https://www.youtube.com/watch?v=WFKzbX_Pn-E</a></li>
-</ul>
-</li>
+</ul></li>
 <li>Yakuza: Like a Dragon <a href="https://www.youtube.com/watch?v=cHaIzVWFmFQ">https://www.youtube.com/watch?v=cHaIzVWFmFQ</a></li>
 <li>Half-Life: Alyx <a href="https://www.youtube.com/watch?v=RkLnSpaHdQ8">https://www.youtube.com/watch?v=RkLnSpaHdQ8</a></li>
 <li>Ghost of Tsushima <a href="https://www.youtube.com/watch?v=ipisgkNA8hY">https://www.youtube.com/watch?v=ipisgkNA8hY</a></li>
 </ol>
-<h4 id="blandest">Blandest</h4>
+
+<h4>Blandest</h4>
+
 <ol>
-<li>Marvel&lsquo;s Avengers <a href="https://www.youtube.com/watch?v=RnDPPFQzoJI">https://www.youtube.com/watch?v=RnDPPFQzoJI</a></li>
+<li>Marvel‘s Avengers <a href="https://www.youtube.com/watch?v=RnDPPFQzoJI">https://www.youtube.com/watch?v=RnDPPFQzoJI</a></li>
 <li>The Dark Pictures: Little Hope <a href="https://www.youtube.com/watch?v=ngMaCiSs-m4">https://www.youtube.com/watch?v=ngMaCiSs-m4</a></li>
 <li>Serious Sam 4 <a href="https://www.youtube.com/watch?v=_0lWocNinps">https://www.youtube.com/watch?v=_0lWocNinps</a></li>
 <li>Immortals Fenyx Rising <a href="https://www.youtube.com/watch?v=5wKzwgEG1SM">https://www.youtube.com/watch?v=5wKzwgEG1SM</a></li>
 <li>Amnesia: Rebirth <a href="https://www.youtube.com/watch?v=ABcs_ipC7PA">https://www.youtube.com/watch?v=ABcs_ipC7PA</a></li>
 </ol>
-<h4 id="worst">Worst</h4>
+
+<h4>Worst</h4>
+
 <ol>
 <li>The Last of Us II <a href="https://www.youtube.com/watch?v=Wb3nnRT7DnY">https://www.youtube.com/watch?v=Wb3nnRT7DnY</a></li>
 <li>Remothered: Broken Porcelain <a href="https://www.youtube.com/watch?v=Mct3rPrt7o8">https://www.youtube.com/watch?v=Mct3rPrt7o8</a></li>
@@ -127,10 +143,13 @@
 <li>Minecraft Dungeons <a href="https://www.youtube.com/watch?v=S0bHcXwcjv8">https://www.youtube.com/watch?v=S0bHcXwcjv8</a></li>
 <li>Deadly Premonition 2 <a href="https://www.youtube.com/watch?v=domLxPxQr3g">https://www.youtube.com/watch?v=domLxPxQr3g</a></li>
 </ol>
-<p>
-<h1 id="the-2010s-most-significant-games">The 2010s&rsquo; Most Significant Games</h1>
+
+<h1>The 2010s’ Most Significant Games</h1>
+
 <p><a href="https://www.youtube.com/watch?v=rDBh703ZtVI">https://www.youtube.com/watch?v=rDBh703ZtVI</a></p>
-<h4 id="best">Best</h4>
+
+<h4>Best</h4>
+
 <ol>
 <li>Undertale <a href="https://www.youtube.com/watch?v=La-qxB3HnaM">https://www.youtube.com/watch?v=La-qxB3HnaM</a></li>
 <li>Portal 2 <a href="https://www.youtube.com/watch?v=qvhjczPD1DA">https://www.youtube.com/watch?v=qvhjczPD1DA</a></li>
@@ -143,7 +162,9 @@
 <li>Just Cause 2 <a href="https://www.youtube.com/watch?v=PZ2cnlDKVPI">https://www.youtube.com/watch?v=PZ2cnlDKVPI</a></li>
 <li>Middle-earth: Shadow of Mordor <a href="https://www.youtube.com/watch?v=hTyoQb-2EVk">https://www.youtube.com/watch?v=hTyoQb-2EVk</a></li>
 </ol>
-<h4 id="worst">Worst</h4>
+
+<h4>Worst</h4>
+
 <ol>
 <li>Hunt Down The Freeman <a href="https://www.youtube.com/watch?v=XiKTOe7ZD_w">https://www.youtube.com/watch?v=XiKTOe7ZD_w</a></li>
 <li>Amy <a href="https://www.youtube.com/watch?v=ehcU90xJrwE">https://www.youtube.com/watch?v=ehcU90xJrwE</a></li>
@@ -154,20 +175,25 @@
 <li>Sniper: Ghost Warrior 3 <a href="https://www.youtube.com/watch?v=yYZ4EaLcbVk">https://www.youtube.com/watch?v=yYZ4EaLcbVk</a></li>
 <li>Call of Duty: Ghosts <a href="https://www.youtube.com/watch?v=DCtbhjDcTNI">https://www.youtube.com/watch?v=DCtbhjDcTNI</a></li>
 <li>Thief <a href="https://www.youtube.com/watch?v=vx2TTzadTaA">https://www.youtube.com/watch?v=vx2TTzadTaA</a></li>
-<li><ul>
-<li>Battlefield 3 <a href="https://www.youtube.com/watch?v=LTLD20KIiLM">https://www.youtube.com/watch?v=LTLD20KIiLM</a></li>
+<li>*   Battlefield 3 <a href="https://www.youtube.com/watch?v=LTLD20KIiLM">https://www.youtube.com/watch?v=LTLD20KIiLM</a>
+
+<ul>
 <li>Call of Duty: Modern Warfare 3 <a href="https://www.youtube.com/watch?v=YM4RQHgYpow">https://www.youtube.com/watch?v=YM4RQHgYpow</a></li>
-</ul>
-</li>
+</ul></li>
 </ol>
-<h4 id="zero-punctuation-lifetime-achievement-award-for-total-abhorrence-zplaata-">Zero Punctuation Lifetime Achievement Award for Total Abhorrence (ZPLAATA)</h4>
+
+<h4>Zero Punctuation Lifetime Achievement Award for Total Abhorrence (ZPLAATA)</h4>
+
 <ol>
 <li>Ride to Hell: Retribution <a href="https://www.youtube.com/watch?v=HWxEwdGpIPQ">https://www.youtube.com/watch?v=HWxEwdGpIPQ</a></li>
 </ol>
-<p>
-<h1 id="2019">2019</h1>
+
+<h1>2019</h1>
+
 <p><a href="https://www.youtube.com/watch?v=FjTv3IfRie8">https://www.youtube.com/watch?v=FjTv3IfRie8</a></p>
-<h4 id="best">Best</h4>
+
+<h4>Best</h4>
+
 <ol>
 <li>Disco Elysium <a href="https://www.youtube.com/watch?v=Hi0pyPwxz6Y">https://www.youtube.com/watch?v=Hi0pyPwxz6Y</a></li>
 <li>Bloodstained <a href="https://www.youtube.com/watch?v=mm0vHyo-rp8">https://www.youtube.com/watch?v=mm0vHyo-rp8</a></li>
@@ -175,7 +201,9 @@
 <li>Resident Evil 2 <a href="https://www.youtube.com/watch?v=ReDVx8WW75w">https://www.youtube.com/watch?v=ReDVx8WW75w</a></li>
 <li>Remnant: From The Ashes <a href="https://www.youtube.com/watch?v=29wfbR6U6Xw">https://www.youtube.com/watch?v=29wfbR6U6Xw</a></li>
 </ol>
-<h4 id="blandest">Blandest</h4>
+
+<h4>Blandest</h4>
+
 <ol>
 <li>Anthem <a href="https://www.youtube.com/watch?v=NrW3PVkCN3A">https://www.youtube.com/watch?v=NrW3PVkCN3A</a></li>
 <li>Ghost Recon Breakpoint <a href="https://www.youtube.com/watch?v=_iQDkrGu0Lo">https://www.youtube.com/watch?v=_iQDkrGu0Lo</a></li>
@@ -183,7 +211,9 @@
 <li>Crackdown 3 <a href="https://www.youtube.com/watch?v=fEUQLcx9spM">https://www.youtube.com/watch?v=fEUQLcx9spM</a></li>
 <li>Man of Medan <a href="https://www.youtube.com/watch?v=YTS3AIxVfi0">https://www.youtube.com/watch?v=YTS3AIxVfi0</a></li>
 </ol>
-<h4 id="worst">Worst</h4>
+
+<h4>Worst</h4>
+
 <ol>
 <li>Contra: Rogue Corps <a href="https://www.youtube.com/watch?v=GO-MIrlkGvE">https://www.youtube.com/watch?v=GO-MIrlkGvE</a></li>
 <li>Left Alive <a href="https://www.youtube.com/watch?v=Xwusu_ygP1k">https://www.youtube.com/watch?v=Xwusu_ygP1k</a></li>
@@ -191,26 +221,33 @@
 <li>Blair Witch <a href="https://www.youtube.com/watch?v=_DD9kvuUqlo">https://www.youtube.com/watch?v=_DD9kvuUqlo</a></li>
 <li>Wolfenstein: Youngblood <a href="https://www.youtube.com/watch?v=BZEy3IugZto">https://www.youtube.com/watch?v=BZEy3IugZto</a></li>
 </ol>
-<p>
-<h1 id="2018">2018</h1>
+
+<h1>2018</h1>
+
 <p><a href="https://www.youtube.com/watch?v=Sid8xgIkcdo">https://www.youtube.com/watch?v=Sid8xgIkcdo</a></p>
-<h4 id="best">Best</h4>
+
+<h4>Best</h4>
+
 <ol>
 <li>Return of the Obra Dinn <a href="https://www.youtube.com/watch?v=ZyGjG6F0ZQs">https://www.youtube.com/watch?v=ZyGjG6F0ZQs</a></li>
 <li>Subnautica <a href="https://www.youtube.com/watch?v=AoETiwKEBT0">https://www.youtube.com/watch?v=AoETiwKEBT0</a></li>
-<li>Marvel&lsquo;s Spider-Man <a href="https://www.youtube.com/watch?v=XRQMRGMY5Es">https://www.youtube.com/watch?v=XRQMRGMY5Es</a></li>
+<li>Marvel‘s Spider-Man <a href="https://www.youtube.com/watch?v=XRQMRGMY5Es">https://www.youtube.com/watch?v=XRQMRGMY5Es</a></li>
 <li>Star Control: Origins <a href="https://www.youtube.com/watch?v=8gHh-zbGK6Q">https://www.youtube.com/watch?v=8gHh-zbGK6Q</a></li>
 <li>Unavowed <a href="https://www.youtube.com/watch?v=QWlggS8bbwE">https://www.youtube.com/watch?v=QWlggS8bbwE</a></li>
 </ol>
-<h4 id="blandest">Blandest</h4>
+
+<h4>Blandest</h4>
+
 <ol>
 <li>Conan Exiles <a href="https://www.youtube.com/watch?v=V5oB9zEu0A8">https://www.youtube.com/watch?v=V5oB9zEu0A8</a></li>
 <li>Shadow of the Tomb Raider <a href="https://www.youtube.com/watch?v=aX7cvp3dbSw">https://www.youtube.com/watch?v=aX7cvp3dbSw</a></li>
-<li>Assassin&rsquo;s Creed Odyssey <a href="https://www.youtube.com/watch?v=bCtGE9A0rvs">https://www.youtube.com/watch?v=bCtGE9A0rvs</a></li>
+<li>Assassin’s Creed Odyssey <a href="https://www.youtube.com/watch?v=bCtGE9A0rvs">https://www.youtube.com/watch?v=bCtGE9A0rvs</a></li>
 <li>A Way Out <a href="https://www.youtube.com/watch?v=BHoMIpXQYRU">https://www.youtube.com/watch?v=BHoMIpXQYRU</a></li>
 <li>Moonlighter <a href="https://www.youtube.com/watch?v=SGj4O_hCB44">https://www.youtube.com/watch?v=SGj4O_hCB44</a></li>
 </ol>
-<h4 id="worst">Worst</h4>
+
+<h4>Worst</h4>
+
 <ol>
 <li>Hunt Down the Freeman <a href="https://www.youtube.com/watch?v=XiKTOe7ZD_w">https://www.youtube.com/watch?v=XiKTOe7ZD_w</a></li>
 <li>Agony <a href="https://www.youtube.com/watch?v=7bsx-dKWNy0">https://www.youtube.com/watch?v=7bsx-dKWNy0</a></li>
@@ -218,10 +255,13 @@
 <li>We Happy Few <a href="https://www.youtube.com/watch?v=067fxuEVmjw">https://www.youtube.com/watch?v=067fxuEVmjw</a></li>
 <li>Detroit: Become Human <a href="https://www.youtube.com/watch?v=vF5TVjTC56E">https://www.youtube.com/watch?v=vF5TVjTC56E</a></li>
 </ol>
-<p>
-<h1 id="2017">2017</h1>
+
+<h1>2017</h1>
+
 <p><a href="https://www.youtube.com/watch?v=He0lWIDGutc">https://www.youtube.com/watch?v=He0lWIDGutc</a></p>
-<h4 id="best">Best</h4>
+
+<h4>Best</h4>
+
 <ol>
 <li>Resident Evil 7 <a href="https://www.youtube.com/watch?v=d18tyKjFIbM">https://www.youtube.com/watch?v=d18tyKjFIbM</a></li>
 <li>A Hat in Time <a href="https://www.youtube.com/watch?v=l6lC3t40W7o">https://www.youtube.com/watch?v=l6lC3t40W7o</a></li>
@@ -229,7 +269,9 @@
 <li>The Legend of Zelda: Breath of the Wild <a href="https://www.youtube.com/watch?v=MbPPXGFvdw0">https://www.youtube.com/watch?v=MbPPXGFvdw0</a></li>
 <li>Persona 5 <a href="https://www.youtube.com/watch?v=WfEFtVPFWzw">https://www.youtube.com/watch?v=WfEFtVPFWzw</a></li>
 </ol>
-<h4 id="blandest">Blandest</h4>
+
+<h4>Blandest</h4>
+
 <ol>
 <li>Star Wars Battlefront II <a href="https://www.youtube.com/watch?v=LKaqHapRvVM">https://www.youtube.com/watch?v=LKaqHapRvVM</a></li>
 <li>Ghost Recon Wildlands <a href="https://www.youtube.com/watch?v=h4I8zJoPLZ0">https://www.youtube.com/watch?v=h4I8zJoPLZ0</a></li>
@@ -237,7 +279,9 @@
 <li>Mass Effect Andromeda <a href="https://www.youtube.com/watch?v=ckGMP5OxnLg">https://www.youtube.com/watch?v=ckGMP5OxnLg</a></li>
 <li>Agents of Mayhem <a href="https://www.youtube.com/watch?v=UGLvt7gUvTo">https://www.youtube.com/watch?v=UGLvt7gUvTo</a></li>
 </ol>
-<h4 id="worst">Worst</h4>
+
+<h4>Worst</h4>
+
 <ol>
 <li>Sniper Ghost Warrior 3 <a href="https://www.youtube.com/watch?v=yYZ4EaLcbVk">https://www.youtube.com/watch?v=yYZ4EaLcbVk</a></li>
 <li>Sonic Forces <a href="https://www.youtube.com/watch?v=rZFHwZp4FJA">https://www.youtube.com/watch?v=rZFHwZp4FJA</a></li>
@@ -245,10 +289,13 @@
 <li>Outlast 2 <a href="https://www.youtube.com/watch?v=6Dyq8LeB65Q">https://www.youtube.com/watch?v=6Dyq8LeB65Q</a></li>
 <li>The Surge <a href="https://www.youtube.com/watch?v=4j6JvzZ_1vo">https://www.youtube.com/watch?v=4j6JvzZ_1vo</a></li>
 </ol>
-<p>
-<h1 id="2016">2016</h1>
+
+<h1>2016</h1>
+
 <p><a href="https://www.youtube.com/watch?v=mhTCqu7e74M">https://www.youtube.com/watch?v=mhTCqu7e74M</a></p>
-<h4 id="best">Best</h4>
+
+<h4>Best</h4>
+
 <ol>
 <li>Doom <a href="https://www.youtube.com/watch?v=HQGxC8HKCD4">https://www.youtube.com/watch?v=HQGxC8HKCD4</a></li>
 <li>Furi <a href="https://www.youtube.com/watch?v=6aAbgtBzDiw">https://www.youtube.com/watch?v=6aAbgtBzDiw</a></li>
@@ -256,26 +303,33 @@
 <li>Titanfall 2 <a href="https://www.youtube.com/watch?v=F0RSwdinkAI">https://www.youtube.com/watch?v=F0RSwdinkAI</a></li>
 <li>Salt and Sanctuary <a href="https://www.youtube.com/watch?v=g-7im-3h91c">https://www.youtube.com/watch?v=g-7im-3h91c</a></li>
 </ol>
-<h4 id="blandest">Blandest</h4>
+
+<h4>Blandest</h4>
+
 <ol>
-<li>No Man&lsquo;s Sky <a href="https://www.youtube.com/watch?v=Lf9egxQsZyY">https://www.youtube.com/watch?v=Lf9egxQsZyY</a></li>
+<li>No Man‘s Sky <a href="https://www.youtube.com/watch?v=Lf9egxQsZyY">https://www.youtube.com/watch?v=Lf9egxQsZyY</a></li>
 <li>Far Cry Primal <a href="https://www.youtube.com/watch?v=mfLPlqBmwMU">https://www.youtube.com/watch?v=mfLPlqBmwMU</a></li>
 <li>Paper Mario: Color Splash <a href="https://www.youtube.com/watch?v=p0N5ooeuNEg">https://www.youtube.com/watch?v=p0N5ooeuNEg</a></li>
 <li>Quantum Break <a href="https://www.youtube.com/watch?v=-8ZKvCWlQUY">https://www.youtube.com/watch?v=-8ZKvCWlQUY</a></li>
 <li>Deus Ex: Mankind Divided <a href="https://www.youtube.com/watch?v=R3RoATfsOYc">https://www.youtube.com/watch?v=R3RoATfsOYc</a></li>
 </ol>
-<h4 id="worst">Worst</h4>
+
+<h4>Worst</h4>
+
 <ol>
 <li>Homefront: The Revolution <a href="https://www.youtube.com/watch?v=gQHLN8mjrp0">https://www.youtube.com/watch?v=gQHLN8mjrp0</a></li>
 <li>Batman Arkham VR <a href="https://www.youtube.com/watch?v=v8BpSSsMH34">https://www.youtube.com/watch?v=v8BpSSsMH34</a></li>
-<li>Tom Clancy&rsquo;s The Division <a href="https://www.youtube.com/watch?v=EpKKOzppQeE">https://www.youtube.com/watch?v=EpKKOzppQeE</a></li>
+<li>Tom Clancy’s The Division <a href="https://www.youtube.com/watch?v=EpKKOzppQeE">https://www.youtube.com/watch?v=EpKKOzppQeE</a></li>
 <li>Metroid Prime: Federation Force <a href="https://www.youtube.com/watch?v=-VJ2aK7VYDk">https://www.youtube.com/watch?v=-VJ2aK7VYDk</a></li>
-<li>Devil&lsquo;s Third <a href="https://www.youtube.com/watch?v=3zoThqFpVuQ">https://www.youtube.com/watch?v=3zoThqFpVuQ</a></li>
+<li>Devil‘s Third <a href="https://www.youtube.com/watch?v=3zoThqFpVuQ">https://www.youtube.com/watch?v=3zoThqFpVuQ</a></li>
 </ol>
-<p>
-<h1 id="2015">2015</h1>
+
+<h1>2015</h1>
+
 <p><a href="https://www.youtube.com/watch?v=sCFGU79rX34">https://www.youtube.com/watch?v=sCFGU79rX34</a></p>
-<h4 id="best">Best</h4>
+
+<h4>Best</h4>
+
 <ol>
 <li>Undertale <a href="https://www.youtube.com/watch?v=La-qxB3HnaM">https://www.youtube.com/watch?v=La-qxB3HnaM</a></li>
 <li>Elite Dangerous <a href="https://www.youtube.com/watch?v=aLzW0dl87JY">https://www.youtube.com/watch?v=aLzW0dl87JY</a></li>
@@ -283,15 +337,19 @@
 <li>Soma <a href="https://www.youtube.com/watch?v=syq_WuOopUU">https://www.youtube.com/watch?v=syq_WuOopUU</a></li>
 <li>Bloodborne <a href="https://www.youtube.com/watch?v=rQ6v5iFf-rk">https://www.youtube.com/watch?v=rQ6v5iFf-rk</a></li>
 </ol>
-<h4 id="blandest">Blandest</h4>
+
+<h4>Blandest</h4>
+
 <ol>
 <li>The Order: 1886 <a href="https://www.youtube.com/watch?v=YPI0c_jeqSE">https://www.youtube.com/watch?v=YPI0c_jeqSE</a></li>
-<li>Assassin&rsquo;s Creed Syndicate <a href="https://www.youtube.com/watch?v=WvpAn6V0hdc">https://www.youtube.com/watch?v=WvpAn6V0hdc</a></li>
+<li>Assassin’s Creed Syndicate <a href="https://www.youtube.com/watch?v=WvpAn6V0hdc">https://www.youtube.com/watch?v=WvpAn6V0hdc</a></li>
 <li>Rise of the Tomb Raider <a href="https://www.youtube.com/watch?v=Gn2eM1Gdu3g">https://www.youtube.com/watch?v=Gn2eM1Gdu3g</a></li>
-<li>Everybody&lsquo;s Gone To The Rapture <a href="https://www.youtube.com/watch?v=h2ptFY5w91w">https://www.youtube.com/watch?v=h2ptFY5w91w</a></li>
+<li>Everybody‘s Gone To The Rapture <a href="https://www.youtube.com/watch?v=h2ptFY5w91w">https://www.youtube.com/watch?v=h2ptFY5w91w</a></li>
 <li>Batman: Arkham Knight <a href="https://www.youtube.com/watch?v=PZ-BcdgD-1c">https://www.youtube.com/watch?v=PZ-BcdgD-1c</a></li>
 </ol>
-<h4 id="worst">Worst</h4>
+
+<h4>Worst</h4>
+
 <ol>
 <li>Halo 5 <a href="https://www.youtube.com/watch?v=RYrFrjtGTEE">https://www.youtube.com/watch?v=RYrFrjtGTEE</a></li>
 <li>Alone in the Dark: Illumination <a href="https://www.youtube.com/watch?v=k8eOHNj7Qbs">https://www.youtube.com/watch?v=k8eOHNj7Qbs</a></li>
@@ -299,10 +357,13 @@
 <li>Hatered <a href="https://www.youtube.com/watch?v=2ub4wS_tjY4">https://www.youtube.com/watch?v=2ub4wS_tjY4</a></li>
 <li>Star Wars: Battlefront <a href="https://www.youtube.com/watch?v=p7ABkNF0OO4">https://www.youtube.com/watch?v=p7ABkNF0OO4</a></li>
 </ol>
-<p>
-<h1 id="2014">2014</h1>
+
+<h1>2014</h1>
+
 <p><a href="https://www.youtube.com/watch?v=79nhVj8fKNY">https://www.youtube.com/watch?v=79nhVj8fKNY</a></p>
-<h4 id="best">Best</h4>
+
+<h4>Best</h4>
+
 <ol>
 <li>Middle-earth: Shadow of Mordor <a href="https://www.youtube.com/watch?v=hTyoQb-2EVk">https://www.youtube.com/watch?v=hTyoQb-2EVk</a></li>
 <li>Wolfenstein: The New Order <a href="https://www.youtube.com/watch?v=E_exiC9g62E">https://www.youtube.com/watch?v=E_exiC9g62E</a></li>
@@ -310,7 +371,9 @@
 <li>Dark Souls 2 <a href="https://www.youtube.com/watch?v=G9naXmOYAdE">https://www.youtube.com/watch?v=G9naXmOYAdE</a></li>
 <li>Shovel Knight <a href="https://www.youtube.com/watch?v=ae8E3ANbB9g">https://www.youtube.com/watch?v=ae8E3ANbB9g</a></li>
 </ol>
-<h4 id="worst">Worst</h4>
+
+<h4>Worst</h4>
+
 <ol>
 <li>Thief <a href="https://www.youtube.com/watch?v=vx2TTzadTaA">https://www.youtube.com/watch?v=vx2TTzadTaA</a></li>
 <li>Sonic Boom: Rise of Lyric <a href="https://www.youtube.com/watch?v=oESyZXbHNbQ">https://www.youtube.com/watch?v=oESyZXbHNbQ</a></li>
@@ -318,18 +381,23 @@
 <li>Lightning Returns: Final Fantasy XIII <a href="https://www.youtube.com/watch?v=OGdwvDG5XZA">https://www.youtube.com/watch?v=OGdwvDG5XZA</a></li>
 <li>Sacred 3 <a href="https://www.youtube.com/watch?v=5XT36Z5sK-E">https://www.youtube.com/watch?v=5XT36Z5sK-E</a></li>
 </ol>
-<p>
-<h1 id="2013">2013</h1>
+
+<h1>2013</h1>
+
 <p><a href="https://www.youtube.com/watch?v=D7rMUvEPXK0">https://www.youtube.com/watch?v=D7rMUvEPXK0</a></p>
-<h4 id="best">Best</h4>
+
+<h4>Best</h4>
+
 <ol>
-<li>BioShock: Infinite  <a href="https://www.youtube.com/watch?v=rciyCHa6J4o">https://www.youtube.com/watch?v=rciyCHa6J4o</a></li>
+<li>BioShock: Infinite <a href="https://www.youtube.com/watch?v=rciyCHa6J4o">https://www.youtube.com/watch?v=rciyCHa6J4o</a></li>
 <li>Papers, Please <a href="https://www.youtube.com/watch?v=9Cy0mWziFrI">https://www.youtube.com/watch?v=9Cy0mWziFrI</a></li>
 <li>Saints Row 4 <a href="https://www.youtube.com/watch?v=xbbdk68-Mfc">https://www.youtube.com/watch?v=xbbdk68-Mfc</a></li>
-<li>Assassin&rsquo;s Creed IV: Black Flag <a href="https://www.youtube.com/watch?v=yHmbweBK2qE">https://www.youtube.com/watch?v=yHmbweBK2qE</a></li>
+<li>Assassin’s Creed IV: Black Flag <a href="https://www.youtube.com/watch?v=yHmbweBK2qE">https://www.youtube.com/watch?v=yHmbweBK2qE</a></li>
 <li>Metal Gear Rising: Revengeance <a href="https://www.youtube.com/watch?v=45Z40zr4BjY">https://www.youtube.com/watch?v=45Z40zr4BjY</a></li>
 </ol>
-<h4 id="worst">Worst</h4>
+
+<h4>Worst</h4>
+
 <ol>
 <li>Call of Duty: Ghosts <a href="https://www.youtube.com/watch?v=DCtbhjDcTNI">https://www.youtube.com/watch?v=DCtbhjDcTNI</a></li>
 <li>Beyond: Two Souls <a href="https://www.youtube.com/watch?v=xiaB8XJqyLs">https://www.youtube.com/watch?v=xiaB8XJqyLs</a></li>
@@ -337,14 +405,19 @@
 <li>Simcity <a href="https://www.youtube.com/watch?v=yHPOiOr94L8">https://www.youtube.com/watch?v=yHPOiOr94L8</a></li>
 <li>Star Trek <a href="https://www.youtube.com/watch?v=xduIzjF9URo">https://www.youtube.com/watch?v=xduIzjF9URo</a></li>
 </ol>
-<h4 id="zero-punctuation-lifetime-achievement-award-for-total-abhorrence-zplaata-">Zero Punctuation Lifetime Achievement Award for Total Abhorrence (ZPLAATA)</h4>
+
+<h4>Zero Punctuation Lifetime Achievement Award for Total Abhorrence (ZPLAATA)</h4>
+
 <ol>
 <li>Ride to Hell: Retribution <a href="https://www.youtube.com/watch?v=HWxEwdGpIPQ">https://www.youtube.com/watch?v=HWxEwdGpIPQ</a></li>
 </ol>
-<p>
-<h1 id="2012">2012</h1>
+
+<h1>2012</h1>
+
 <p><a href="https://www.youtube.com/watch?v=6V6MI1ZSRfg">https://www.youtube.com/watch?v=6V6MI1ZSRfg</a></p>
-<h4 id="best">Best</h4>
+
+<h4>Best</h4>
+
 <ol>
 <li>Spec Ops: The Line <a href="https://www.youtube.com/watch?v=HNhPMjbgkXA">https://www.youtube.com/watch?v=HNhPMjbgkXA</a></li>
 <li>XCOM: Enemy Unknown <a href="https://www.youtube.com/watch?v=S9QVGtqwhXY">https://www.youtube.com/watch?v=S9QVGtqwhXY</a></li>
@@ -352,7 +425,9 @@
 <li>The Walking Dead <a href="https://www.youtube.com/watch?v=U0OvwUlLx08">https://www.youtube.com/watch?v=U0OvwUlLx08</a></li>
 <li>Dishonored <a href="https://www.youtube.com/watch?v=016dZuob2Dc">https://www.youtube.com/watch?v=016dZuob2Dc</a></li>
 </ol>
-<h4 id="worst">Worst</h4>
+
+<h4>Worst</h4>
+
 <ol>
 <li>Amy <a href="https://www.youtube.com/watch?v=ehcU90xJrwE">https://www.youtube.com/watch?v=ehcU90xJrwE</a></li>
 <li>Medal of Honor Warfighter <a href="https://www.youtube.com/watch?v=vuNN1D-FCjs">https://www.youtube.com/watch?v=vuNN1D-FCjs</a></li>
@@ -360,10 +435,13 @@
 <li>NeverDead <a href="https://www.youtube.com/watch?v=xbQ-Qwcuehk">https://www.youtube.com/watch?v=xbQ-Qwcuehk</a></li>
 <li>Resident Evil 6 <a href="https://www.youtube.com/watch?v=rI9wns8HqPU">https://www.youtube.com/watch?v=rI9wns8HqPU</a></li>
 </ol>
-<p>
-<h1 id="2011">2011</h1>
+
+<h1>2011</h1>
+
 <p><a href="https://www.youtube.com/watch?v=NC9aTJ7m-Qc">https://www.youtube.com/watch?v=NC9aTJ7m-Qc</a></p>
-<h4 id="best">Best</h4>
+
+<h4>Best</h4>
+
 <ol>
 <li>Portal 2 <a href="https://www.youtube.com/watch?v=qvhjczPD1DA">https://www.youtube.com/watch?v=qvhjczPD1DA</a></li>
 <li>Driver: San Francisco <a href="https://www.youtube.com/watch?v=-OJai9dKraI">https://www.youtube.com/watch?v=-OJai9dKraI</a></li>
@@ -371,22 +449,27 @@
 <li>Infamous 2 <a href="https://www.youtube.com/watch?v=oaWZnjve5cI">https://www.youtube.com/watch?v=oaWZnjve5cI</a></li>
 <li>The Elder Scrolls V: Skyrim <a href="https://www.youtube.com/watch?v=lttqPaaCt0s">https://www.youtube.com/watch?v=lttqPaaCt0s</a></li>
 </ol>
-<h4 id="worst">Worst</h4>
+
+<h4>Worst</h4>
+
 <ol>
-<li><ul>
-<li>Battlefield 3 <a href="https://www.youtube.com/watch?v=LTLD20KIiLM">https://www.youtube.com/watch?v=LTLD20KIiLM</a></li>
+<li>*   Battlefield 3 <a href="https://www.youtube.com/watch?v=LTLD20KIiLM">https://www.youtube.com/watch?v=LTLD20KIiLM</a>
+
+<ul>
 <li>Call of Duty: Modern Warfare 3 <a href="https://www.youtube.com/watch?v=YM4RQHgYpow">https://www.youtube.com/watch?v=YM4RQHgYpow</a></li>
-</ul>
-</li>
+</ul></li>
 <li>Duke Nukem Forever <a href="https://www.youtube.com/watch?v=hi2xsKHKRUM">https://www.youtube.com/watch?v=hi2xsKHKRUM</a></li>
 <li>Dead Island <a href="https://www.youtube.com/watch?v=LSXu7FusSUk">https://www.youtube.com/watch?v=LSXu7FusSUk</a></li>
 <li>Red Faction Armageddon <a href="https://www.youtube.com/watch?v=kyPQ-rjXtMQ">https://www.youtube.com/watch?v=kyPQ-rjXtMQ</a></li>
 <li>Mindjack <a href="https://www.youtube.com/watch?v=_5zXl93LXIE">https://www.youtube.com/watch?v=_5zXl93LXIE</a></li>
 </ol>
-<p>
-<h1 id="2010">2010</h1>
+
+<h1>2010</h1>
+
 <p><a href="https://www.youtube.com/watch?v=s8w6hY9DtCQ">https://www.youtube.com/watch?v=s8w6hY9DtCQ</a></p>
-<h4 id="best">Best</h4>
+
+<h4>Best</h4>
+
 <ol>
 <li>Just Cause 2 <a href="https://www.youtube.com/watch?v=PZ2cnlDKVPI">https://www.youtube.com/watch?v=PZ2cnlDKVPI</a></li>
 <li>Dead Rising 2 <a href="https://www.youtube.com/watch?v=bqkGrfc_lng">https://www.youtube.com/watch?v=bqkGrfc_lng</a></li>
@@ -394,7 +477,9 @@
 <li>Amnesia: The Dark Descent <a href="https://www.youtube.com/watch?v=IXuIZstyM7E">https://www.youtube.com/watch?v=IXuIZstyM7E</a></li>
 <li>Limbo <a href="https://www.youtube.com/watch?v=iBmDJunE4vU">https://www.youtube.com/watch?v=iBmDJunE4vU</a></li>
 </ol>
-<h4 id="worst">Worst</h4>
+
+<h4>Worst</h4>
+
 <ol>
 <li>Kane &amp; Lynch 2: Dog Days <a href="https://www.youtube.com/watch?v=8oRSpyFvPkY">https://www.youtube.com/watch?v=8oRSpyFvPkY</a></li>
 <li>Metroid Other M <a href="https://www.youtube.com/watch?v=9XSkRuPuthY">https://www.youtube.com/watch?v=9XSkRuPuthY</a></li>
@@ -402,9 +487,11 @@
 <li>Final Fantasy XIII <a href="https://www.youtube.com/watch?v=KmnAL60mfSg">https://www.youtube.com/watch?v=KmnAL60mfSg</a></li>
 <li>BioShock 2 <a href="https://www.youtube.com/watch?v=gm9Eta491O8">https://www.youtube.com/watch?v=gm9Eta491O8</a></li>
 </ol>
-<p>
-<h1 id="2009">2009</h1>
+
+<h1>2009</h1>
+
 <p><a href="https://www.youtube.com/watch?v=zHV4XVqnSHE">https://www.youtube.com/watch?v=zHV4XVqnSHE</a></p>
+
 <ol>
 <li>Wolfenstein - The Quadruple Amputee Kindergarten Award for Least Necessary Sandbox <a href="https://www.youtube.com/watch?v=zHnYFP73MKE">https://www.youtube.com/watch?v=zHnYFP73MKE</a></li>
 <li>Kinect - The Greater London One-Way System Award for Biggest Dead End <a href="https://www.youtube.com/watch?v=WgvFfFK5KFA">https://www.youtube.com/watch?v=WgvFfFK5KFA</a></li>
@@ -413,34 +500,40 @@
 <li>Resident Evil 5 - The Razor Blade Filled Vagina Award for Fastest Reversal of Fortune <a href="https://www.youtube.com/watch?v=VxmvKj3SJGw">https://www.youtube.com/watch?v=VxmvKj3SJGw</a></li>
 <li>Batman Arkham Asylum - The Golden Dog Biscuit Award for Genuinely Best Game <a href="https://www.youtube.com/watch?v=zL8SB1YHzFU">https://www.youtube.com/watch?v=zL8SB1YHzFU</a></li>
 </ol>
-<p>
-<h1 id="2008">2008</h1>
+
+<h1>2008</h1>
+
 <p><a href="https://www.youtube.com/watch?v=jDC2pI1lMcY">https://www.youtube.com/watch?v=jDC2pI1lMcY</a></p>
+
 <ol>
-<li>Metal Gear Solid 4: Guns of the Patriots - The &amp;quot;Indiana Jones in a Fridge&amp;quot; Award for Franchise Murder <a href="https://www.youtube.com/watch?v=W3vPq047-8s">https://www.youtube.com/watch?v=W3vPq047-8s</a></li>
-<li>The entire survival horror genre - The &amp;quot;15 Year Old School Leaver&amp;quot; Award for Biggest Disappointment
-  <ul>
-  <li>Silent Hill Homecoming <a href="https://www.youtube.com/watch?v=GpmgP9DcOU8">https://www.youtube.com/watch?v=GpmgP9DcOU8</a></li>
-  <li>Alone in the Dark <a href="https://www.youtube.com/watch?v=VtK7HdsH_ZU">https://www.youtube.com/watch?v=VtK7HdsH_ZU</a></li>
-  <li>Dead space <a href="https://www.youtube.com/watch?v=b5GFyIHhpgg">https://www.youtube.com/watch?v=b5GFyIHhpgg</a></li>
-  </ul>
-</li>
-<li>The Prince of Persia (2008) - The &amp;quot;Proximity to Jason Voorhees&amp;quot; Award for Stupidest Main Character <a href="https://www.youtube.com/watch?v=F2XQUzKsxNg">https://www.youtube.com/watch?v=F2XQUzKsxNg</a></li>
-<li>Grand Theft Auto IV - The &amp;quot;Turd in a Chocolate Box&amp;quot; Award for Surprising Poor Quality <a href="https://www.youtube.com/watch?v=5AXeKZBBYvw">https://www.youtube.com/watch?v=5AXeKZBBYvw</a></li>
-<li>Sonic Unleashed - The &amp;quot;Turd in a Turd&amp;quot; Award for Unsurprising Poor Quality <a href="https://www.youtube.com/watch?v=UM28uXIkPWk">https://www.youtube.com/watch?v=UM28uXIkPWk</a></li>
-<li>Saints Row 2 - The &amp;quot;Copulating Jelly Baby&amp;quot; Award for Fucking Sweet Game <a href="https://www.youtube.com/watch?v=pWXuzZ26yp0">https://www.youtube.com/watch?v=pWXuzZ26yp0</a></li>
-<li>The &amp;quot;Attention Deficit&amp;quot; Award for Games I Haven&lsquo;t Reviewed Yet<ul>
+<li>Metal Gear Solid 4: Guns of the Patriots - The Indiana Jones in a Fridge Award for Franchise Murder <a href="https://www.youtube.com/watch?v=W3vPq047-8s">https://www.youtube.com/watch?v=W3vPq047-8s</a></li>
+<li>The entire survival horror genre - The 15 Year Old School Leaver Award for Biggest Disappointment
+
+<ul>
+<li>Silent Hill Homecoming <a href="https://www.youtube.com/watch?v=GpmgP9DcOU8">https://www.youtube.com/watch?v=GpmgP9DcOU8</a></li>
+<li>Alone in the Dark <a href="https://www.youtube.com/watch?v=VtK7HdsH_ZU">https://www.youtube.com/watch?v=VtK7HdsH_ZU</a></li>
+<li>Dead space <a href="https://www.youtube.com/watch?v=b5GFyIHhpgg">https://www.youtube.com/watch?v=b5GFyIHhpgg</a></li>
+</ul></li>
+<li>The Prince of Persia (2008) - The Proximity to Jason Voorhees Award for Stupidest Main Character <a href="https://www.youtube.com/watch?v=F2XQUzKsxNg">https://www.youtube.com/watch?v=F2XQUzKsxNg</a></li>
+<li>Grand Theft Auto IV - The Turd in a Chocolate Box Award for Surprising Poor Quality <a href="https://www.youtube.com/watch?v=5AXeKZBBYvw">https://www.youtube.com/watch?v=5AXeKZBBYvw</a></li>
+<li>Sonic Unleashed - The Turd in a Turd Award for Unsurprising Poor Quality <a href="https://www.youtube.com/watch?v=UM28uXIkPWk">https://www.youtube.com/watch?v=UM28uXIkPWk</a></li>
+<li>Saints Row 2 - The Copulating Jelly Baby Award for Fucking Sweet Game <a href="https://www.youtube.com/watch?v=pWXuzZ26yp0">https://www.youtube.com/watch?v=pWXuzZ26yp0</a></li>
+<li>The Attention Deficit Award for Games I Haven‘t Reviewed Yet
+
+<ul>
 <li>Gears of War 2 <a href="https://www.youtube.com/watch?v=v4rQSykog5Y">https://www.youtube.com/watch?v=v4rQSykog5Y</a></li>
 <li>Tomb Raider: Underworld <a href="https://www.youtube.com/watch?v=ESl6t7Or-z8">https://www.youtube.com/watch?v=ESl6t7Or-z8</a></li>
 <li>Far Cry 2 <a href="https://www.youtube.com/watch?v=LsY7vLqIi-c">https://www.youtube.com/watch?v=LsY7vLqIi-c</a></li>
-</ul>
-</li>
-</ol></p>
+</ul></li>
+</ol>
 
 </article>
 
 <footer>
-<br class="doNotDisplay doNotPrint" />
-<div style="margin-right: auto;"><a href="http://crew.0xffff.me">Powered by crew</a></div>
+    <div class="right">
+    	<a href="http://crew.0xffff.me">Powered by crew</a>
+	</div>
 </footer>
+
+
 </body></html>
