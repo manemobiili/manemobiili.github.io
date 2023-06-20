@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>beautify-micro</title>
+    <link rel="stylesheet" href="_static/style.css" type="text/css" media="screen, handheld" title="default">
+    <link rel="shortcut icon" href="_static/favicon.ico" type="image/vnd.microsoft.icon">
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+</head>
+<body>
+
+<header>
+
+	<nav class="head-nav">
+	<div class="left">
+		<img src="_static/toast.gif" <="" div="">
+    </div>
+    
+    <div class="right">
+		<!-- <span class="doNotDisplay">Socials:</span> -->
+		  | <a href="https://github.com/manemobiili">Github </a>
+		  | <a href="https://fosstodon.org/@mane">Mastodon </a>
+		  | <a href="https://youtube.com/@manemobiili">YouTube </a>
+		  |
+		</div>
+	</nav>
+    <h1><a href="index.html">manemobiili <span id="headerSubTitle">fail early, fail often, fail forward</span></a></h1>
+</header>
+
+<nav id="side-bar">
+    <div>
+		<ul><li><a href="avoid-snaps.htm">› avoid-snaps</a></li><li><a href="beautify-micro.htm"><b>» beautify-micro</b></a></li><li><a href="fedora-silverblue.htm">› fedora-silverblue</a></li><li><a href="gentoo-portage.htm">› gentoo-portage</a></li><li><a href="my-26-euro-mistake.htm">› my-26-euro-mistake</a></li><li><a href="openSUSE-aeon.htm">› openSUSE-aeon</a></li><li><a href="zero-punctuation-top-5-videos.htm">› zero-punctuation-top-5-videos</a></li></ul>
+	</div>
+</nav>
+
+<article>
+	<p>I prefer command-line editors over full-blown IDEs. For my upcoming Kotlin projects, I decided to try out IntelliJ IDEA and VSCode (in the form of VSCodium and https://vscode.dev). Although I was pleasantly surprised by IntelliJ IDEA’s distraction-free mode. I still prefer command-line editors. To my knowledge: people who use command-line editors aren't fond of debugging tools, and that's where IDE's have the edge. I should look more into utilizing debug tools later.</p>
+
+<p>The most important thing for me are keyboard shortcuts because I’m too lazy to keep clicking and dragging buttons around. Although I still use vi(m) sometimes, I think modal editing is a bit overrated. However, it doesn’t stop me from using other software with vim keys; Firefox+viumium and lf come to mind.</p>
+
+<p>There are plenty of CLI editors out in the wild; most of them are way older than micro so UTF-8 isn’t a promise. I suggest trying out elvis, mcedit, mg, nano, and vile.</p>
+
+<p>My favorite things about micro are its super small size of the editor, working clipboard, mostly sensible keybindings, and excellent language support. I might expand the list in the future if there are other hurdles in my way.</p>
+
+<h2>Get alt, ctrl &amp; shift keys working correctly within tmux</h2>
+
+<p>I love tmux to bits, but if you open micro inside tmux, modifier keys aren't working properly. Instead of highlighting the text it print's out [1;2D] [1;2C]... and a bunch of other junk we wouldn't want in our text.</p>
+
+<p>Stackoverflow to the rescue! Author of micro found a fix for that by inserting the following into ~/.config/micro/bindings.json</p>
+
+<pre><code>"\u001b[1;2A": "SelectUp",
+"\u001b[1;2B": "SelectDown",
+"\u001b[1;2C": "SelectRight",
+"\u001b[1;2D": "SelectLeft",
+"\u001b[1;3D": "WordLeft",
+"\u001b[1;3C": "WordRight",
+"\u001b[1;3A": "MoveLinesUp",
+"\u001b[1;3B": "MoveLinesDown",
+"\u001b[1;4C": "SelectWordRight",
+"\u001b[1;4D": "SelectWordLeft",
+"\u001b[1;5D": "StartOfLine",
+"\u001b[1;5C": "EndOfLine",
+"\u001b[1;6D": "SelectToStartOfLine",
+"\u001b[1;6C": "SelectToEndOfLine",
+"\u001b[1;5A": "CursorStart",
+"\u001b[1;5B": "CursorEnd",
+"\u001b[1;6A": "SelectToStart",
+"\u001b[1;6B": "SelectToEnd"
+</code></pre>
+
+<p>I'm leaving link's to stackoverflow thread in the end.</p>
+
+<h2>Bind Ctrl-R and Alt-R to replaceall and replace commands</h2>
+
+<p>To bind Ctrl-R and Alt-R to replaceall and replace commands, you can add the following lines to your ~/.config/micro/bindings.json file:</p>
+
+<pre><code>"Alt-r": "replace",
+"Ctrl-r": "replaceall"
+</code></pre>
+
+<p>By default Ctrl-R toggles the “ruler” command, which shows the line numbers. As of 2023 default keys don’t have a keybinding for replacing text. Luckily everything can be done using Ctrl-E and writing the command’s there. Commands are saved to <i>~/.config/micro/settings.json </i>file.</p>
+
+<h2>Set a custom colorscheme</h2>
+
+<p>I emphatise cleanliness in my setup, everything out of my way. I want the default background for all of my programs, which is assigned by the terminal emulator. AFAIK there is no "terminal" variable as there is in tmux (Ctrl-b :)</p>
+
+<p>set -g status-style bg=terminal</p>
+
+<p>But micro has a variety of themes to use, i chose dukeubuntu-tc, maybe because orange is my favorite colour. You copy a theme file from here:</p>
+
+<p><a href="https://github.com/zyedidia/micro/tree/0859f4aa36d69e5cdb92b868dfc08498fd8a1d70/runtime/colorschemes">https://github.com/zyedidia/micro/tree/0859f4aa36d69e5cdb92b868dfc08498fd8a1d70/runtime/colorschemes</a></p>
+
+<p>to <i>~/.config/micro/colorschemes</i> and tweak it to your hearts content.</p>
+
+<hr />
+
+<p>With these customizations micro is a very intuitive editor. I highly recommend checking it out!</p>
+
+<h4>Links</h4>
+
+<p>Stackoverflow thread: <a href="https://stackoverflow.com/questions/69396856/tmux-micro-text-editor-shift-arrow-echo-keycode">https://stackoverflow.com/questions/69396856/tmux-micro-text-editor-shift-arrow-echo-keycode</a></p>
+
+<p>Micro's author note: <a href="https://github.com/zyedidia/micro/issues/983\#issuecomment-355867571">https://github.com/zyedidia/micro/issues/983\#issuecomment-355867571</a></p>
+
+<hr />
+
+<h4>Update #1 (16. June 2023)</h4>
+
+<p>Micro does not have anything binded to alt hjkl keys, so let's turn them into vi-style movement keys</p>
+
+<p><code>
+    "Alt-h": "CursorLeft",
+    "Alt-j": "CursorDown",
+    "Alt-k": "CursorUp",
+    "Alt-l": "CursorRight"
+</code></p>
+
+<p>This is way nicer than moving with arrow keys, especially with those cramped laptop arrow keys!
+However, there are some emacs keys out of the box. You can use them for moving word to word and line start to line end.</p>
+
+<p><code>
+    // Emacs-style keybindings
+    // These are installed by default
+    // No need to copy these keys
+    "Alt-f": "WordRight",
+    "Alt-b": "WordLeft",
+    "Alt-a": "StartOfLine",
+    "Alt-e": "EndOfLine"
+</code></p>
+
+</article>
+
+<footer>
+    <div class="right">
+    	<a href="http://crew.0xffff.me">Powered by crew</a>
+	</div>
+</footer>
+
+
+</body></html>

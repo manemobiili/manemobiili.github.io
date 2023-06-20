@@ -1,43 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>portage</title>
-    <link rel="stylesheet" href="../_static/style.css" type="text/css" media="screen, handheld" title="default">
-    <link rel="shortcut icon" href="../_static/favicon.ico" type="image/vnd.microsoft.icon">
-    <meta charset="UTF-8">
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
-</head>
-<body>
-
-<header>
-
-	<nav class="head-nav">
-	<div class="left">
-		<img src="../_static/toast.gif" <="" div="">
-    </div>
-    
-    <div class="right">
-		<!-- <span class="doNotDisplay">Socials:</span> -->
-		  | <a href="https://github.com/manemobiili">Github </a>
-		  | <a href="https://fosstodon.org/@mane">Mastodon </a>
-		  | <a href="https://youtube.com/@manemobiili">YouTube </a>
-		  |
-		</div>
-	</nav>
-    <h1><a href="../index.html">manemobiili <span id="headerSubTitle">fail early, fail often, fail forward</span></a></h1>
-</header>
-
-<nav id="side-bar">
-    <div>
-		<ul><li><a href="../cheatsheets">» <i>cheatsheets</i>/</a><ul><ul><li><a href="portage.md"><b>» portage</b></a></li></ul></ul></li><li><a href="../dotfiles">› dotfiles/</a></li><li><a href="../journal">› journal/</a></li><li><a href="../lists">› lists/</a></li></ul>
-	</div>
-</nav>
-
-<article>
-	<p>Plain text version of <a href="https://wiki.gentoo.org/wiki/Gentoo_Cheat_Sheet">https://wiki.gentoo.org/wiki/Gentoo_Cheat_Sheet</a>
-circa 2023</p>
-
-<pre><code># Sync methods
+# Sync methods
 emaint -a sync				// Sync all repositories that are set to auto-sync including the Gentoo ebuild repository
 emerge-webrsync				// Sync the Gentoo ebuild repository using the mirrors by obtaining a snapshot that is (at most) a day old
 eix-sync				// emerge --sync now runs the emaint sync module with the --auto option
@@ -113,18 +74,6 @@ systemctl start sshd			// Start the sshd service now
 systemctl status sshd			// Check if the sshd service is running
 
 # Tips
-emerge -s &quot;%^python$			// To search packages in Portage by regular expressions
+emerge -s "%^python$"			// Search packages in Portage by regular expressions
 emerge --regen				// Generate local metadata cache after syncing overlays
 qcheck vim-core				// Use qcheck to verify installed packages (app-portage/portage-utils)
-</code></pre>
-
-</article>
-
-<footer>
-    <div class="right">
-    	<a href="http://crew.0xffff.me">Powered by crew</a>
-	</div>
-</footer>
-
-
-</body></html>
